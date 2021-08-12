@@ -67,7 +67,7 @@
       <div class="stories-item">
         <div class="stories-item-box">
           <img
-            src="https://media-exp1.licdn.com/dms/image/C4E03AQG32kvI_Ly1-Q/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=13BPKwjaPQnAsHgKHzeJq3B-A4Lsg7VFM9hmtDVDJlg"
+            src="https://instagram.fmvd2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/56526841_402805890553414_7747271917014351872_n.jpg?_nc_ht=instagram.fmvd2-1.fna.fbcdn.net&_nc_ohc=mWlSFv3dNrgAX_52Srm&edm=ABfd0MgBAAAA&ccb=7-4&oh=089879d26f4d9571b80a8f0ace9a5274&oe=611A9D63&_nc_sid=7bff83"
             alt="" />
         </div>
         <h2>
